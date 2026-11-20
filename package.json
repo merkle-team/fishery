@@ -63,7 +63,7 @@
     "@types/lodash.mergewith": "4.6.6",
     "jest": "26.6.3",
     "prettier": "2.3.2",
-    "rollup": "2.60.1",
+    "rollup": "2.80.0",
     "rollup-plugin-typescript2": "0.31.0",
     "ts-jest": "26.4.4",
     "tsd": "0.17.0",
@@ -71,5 +71,8 @@
   },
   "dependencies": {
     "lodash.mergewith": "4.6.2"
+  },
+  "resolutions": {
+    "braces": "3.0.3"
   }
 }
